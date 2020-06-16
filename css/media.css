@@ -1,0 +1,11 @@
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+  only screen and (-moz-device-pixel-ratio: 1.5),
+  only screen and (-o-min-device-pixel-ratio: 3/2),
+  only screen and (min-resolution: 1.5dppx),
+  only screen and (min-resolution: 144dpi) {
+  .header_img {
+    background-image: url(../img/banner@2x_01-min.png);
+    width: 1920px;
+    height: 1000px;
+  }
+}
