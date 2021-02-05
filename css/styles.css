@@ -33,7 +33,7 @@
 }
 
 .header_img--gradient {
-  width: 1920px;
+  width: 100vw;
   height: 1000px;
   background-image: -webkit-linear-gradient(
     90deg,
@@ -153,6 +153,10 @@ a:hover:after {
   text-align: center;
   margin: auto;
   margin-top: 120px;
+}
+
+.header_button:hover {
+  background-color: rgba(243, 129, 129, 0.8);
 }
 
 .services {
